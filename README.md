@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BrainRotBrad
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+BrainRotBrad/BrainRotBrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+hellooo, I'm @BrainRotBrad
+Im interested in learning how to do coding, i've always wanted to learn coding but never had the time to do so, If someone is looking for any type of help/assistance with there projects, I'd love to help for free
+just show me the ropes & walk me through the steps
